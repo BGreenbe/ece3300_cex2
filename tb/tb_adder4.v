@@ -40,7 +40,7 @@ module adder4_tb;
     testa[2] = 4'd15;
     testa[3] = 4'd7;
 	 testa[4] = 4'd17;
-	 testa[5] = 4'7;
+	 testa[5] = 4'd7;
 	 testa[6] = 4'd2;
 	 testa[7] = 4'd10;
 
@@ -49,7 +49,7 @@ module adder4_tb;
     testb[2] = 4'd15;
     testb[3] = 4'd8;
 	 testb[4] = 4'd13;
-	 testb[5] = 4'5;
+	 testb[5] = 4'd5;
 	 testb[6] = 4'd6;
 	 testb[7] = 4'd9;
  end
